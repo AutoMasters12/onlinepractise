@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="6" time="0.748042">
+<testcase classname="Flights functinalities" name="Successful Login with Valid Credentials" time="0.665884">
+<system-out><![CDATA[Given User is on Home Page..................................................passed
+When User Navigate to LogIn Page............................................passed
+And User enters "testuser_1" and "Test@34"..................................passed
+Then Message displayed Login Successfully...................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Flights functinalities" name="Successful Login with Valid Credentials 2" time="0.008108">
+<system-out><![CDATA[Given User is on Home Page..................................................passed
+When User Navigate to LogIn Page............................................passed
+And User enters "testuser_2" and "Test@33"..................................passed
+Then Message displayed Login Successfully...................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Flights functinalities" name="Successful Login with Valid Credentials 3" time="0.002353">
+<system-out><![CDATA[Given User is on Home Page..................................................passed
+When User Navigate to LogIn Page............................................passed
+And User enters "testuser_2" and "Test@15333"...............................passed
+Then Message displayed Login Successfully...................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Flights functinalities" name="Successful Login with Valid Credentials 4" time="0.004858">
+<system-out><![CDATA[Given User is on Home Page..................................................passed
+When User Navigate to LogIn Page............................................passed
+And User enters "testuser_2" and "Test@1333"................................passed
+Then Message displayed Login Successfully...................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Flights functinalities" name="Successful Login with Valid Credentials 5" time="0.040602">
+<system-out><![CDATA[Given User is on Home Page..................................................passed
+When User Navigate to LogIn Page............................................passed
+And User enters "testuser_2" and "Test@122253"..............................passed
+Then Message displayed Login Successfully...................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Flights functinalities" name="Successful Login with Valid Credentials 6" time="0.026237">
+<system-out><![CDATA[Given User is on Home Page..................................................passed
+When User Navigate to LogIn Page............................................passed
+And User enters "testuser_2" and "Test@15223"...............................passed
+Then Message displayed Login Successfully...................................passed
+]]></system-out>
+</testcase>
+</testsuite>
